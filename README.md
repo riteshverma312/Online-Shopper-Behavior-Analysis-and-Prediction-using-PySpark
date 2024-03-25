@@ -34,20 +34,25 @@ Bar Chart: Sessions by Month
 Box Plot: Exit Rate Trends by Month by Revenue
 
 **Feature Engineering**
+
 Preprocessing steps including boolean to integer conversion, string indexing, vector assembling, and standard scaling.
 
 **Prepared Dataset for Modeling**
+
 DataFrame ready for predictive modeling with standardized features and target variable.
 
 **Results**
+
 Evaluation of Logistic Regression, Gradient-Boosted Trees, and Random Forest models.
 Metrics include Accuracy, AUC, ROC Curve Analysis, Recall, F1 Score, and Precision.
 Summary of model performances and identified challenges.
 
 **Problem Encountered**
+
 Addressing imbalanced class distribution, deciding on cluster count in K-means, identifying key features for PCA, and training models with skewed data.
 
 **Summary of Achievements**
+
 Identification of influential features for clustering and revenue conversion.
 Gradient-Boosted Trees model outperforms others in AUC and recall.
 Random Forest demonstrates a balanced F1 score.
