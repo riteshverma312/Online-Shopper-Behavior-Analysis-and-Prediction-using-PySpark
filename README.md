@@ -54,6 +54,9 @@ Addressing imbalanced class distribution, deciding on cluster count in K-means, 
 **Summary of Achievements**
 
 Identification of influential features for clustering and revenue conversion.
+
 Gradient-Boosted Trees model outperforms others in AUC and recall.
+
 Random Forest demonstrates a balanced F1 score.
+
 Logistic Regression maintains competitive performance despite lower recall.
