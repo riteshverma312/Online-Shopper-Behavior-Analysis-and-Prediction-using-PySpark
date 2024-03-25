@@ -6,17 +6,27 @@
 **Dataset Description:** "Online Shoppers Intention" dataset from Kaggle comprising 12,331 rows and 18 columns.
 
 **Scope of Analysis:**
+
  1.Exploratory Data Analysis (EDA)
+ 
  2.Visualization
+ 
  3.Insight Generation
+ 
  4.Actionable Recommendations
+ 
 **Prediction, Inference, and Other Goals**
+
 **Project Aim:** Develop a predictive model to determine the likelihood of a session resulting in revenue using binary classification.
+
 **Model Selection:** Logistic Regression, Decision Trees, Random Forests, and Gradient-Boosting Machines.
+
 **Inference Objectives:** Analyze model performance metrics and feature importance.
+
 **Further Goals:** Provide actionable insights, identify key user behaviors, and develop a sustainable model.
 
 **Data Exploration**
+
 Correlation Heatmap Analysis
 Scatter plot: Bounce Rate vs Exit Rate
 Visitor Types breakdown
