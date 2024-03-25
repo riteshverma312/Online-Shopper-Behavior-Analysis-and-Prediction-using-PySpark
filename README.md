@@ -7,13 +7,13 @@
 
 **Scope of Analysis:**
 
- 1.Exploratory Data Analysis (EDA)
+  1. Exploratory Data Analysis (EDA)
  
- 2.Visualization
+  2. Visualization
  
- 3.Insight Generation
+  3. Insight Generation
  
- 4.Actionable Recommendations
+  4. Actionable Recommendations
  
 **Prediction, Inference, and Other Goals**
 
