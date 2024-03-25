@@ -1,7 +1,10 @@
 # Online-Shopper-Behavior-Analysis-and-Prediction-using-PySpark
 **Project Overview**
+
 **Objective:** Explore and analyze the "Online Shoppers Intention" dataset using PySpark to understand online shopper behavior and optimize e-commerce operations.
+
 **Dataset Description:** "Online Shoppers Intention" dataset from Kaggle comprising 12,331 rows and 18 columns.
+
 **Scope of Analysis:**
  1.Exploratory Data Analysis (EDA)
  2.Visualization
